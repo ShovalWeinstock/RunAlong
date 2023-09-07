@@ -1,7 +1,7 @@
 # RunAlong
 
+![finalLogo](https://github.com/ShovalWeinstock/RunAlong/assets/92527489/58904b8c-df9a-4c6f-b53e-bb65d5ead3c8)
 
-                                   ![finalLogo](https://github.com/ShovalWeinstock/RunAlong/assets/92527489/58904b8c-df9a-4c6f-b53e-bb65d5ead3c8)
 
 ## Gamify Your Run
 RunAlong turns your run into an exciting game! 
